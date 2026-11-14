@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "38c1b25fqiU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kirbs\\Downloads\\Activity4_perez\\activty4_perez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirbs\\.nuget\\packages\\system.data.oledb\\10.0.14\\system.data.oledb.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
